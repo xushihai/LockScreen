@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LockScreen</string>
+    <string name="default_lockscreen_password">1234</string>
+    <string name="default_lockscreen_password_str">默认锁屏密码：1234</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
